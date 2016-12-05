@@ -61,7 +61,8 @@
         <span class="back-to-top"></span>
         </div>
         <footer id="fim">
-         <p> &copy; 2016 - Teste de estágio desenvolvido por Willian Santos</br>
+        
+         <p> &copy; <?php echo date('Y');?>- Teste de estágio desenvolvido por Willian Santos</br>
          <a href="http://facebook.com/williansantospg" target="_blank">Facebook</a></p> 
         </footer>
         </body>
